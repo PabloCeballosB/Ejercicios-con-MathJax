@@ -1,0 +1,17 @@
+body{
+  margin: 50px;
+}
+
+h2{
+text-align: center;
+}
+
+p{
+  font-size: 25px;
+}
+
+hr{
+  width: 70%;
+  margin: 50px auto;
+  text-align: center;
+}
